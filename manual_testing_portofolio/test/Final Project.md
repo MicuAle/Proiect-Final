@@ -10,7 +10,7 @@
 
 ## Functional specifications
 > The below Story was created in JIRA and describes the functional specifications of the Dependants module, for which the final project is performed upon.
-![alt] (Story Jira.png)
+![Image](https://github.com/MicuAle/Proiect-Final/blob/main/manual_testing_portofolio/test/Story%20Jira.PNG)
 
 # 1. Testing section
 ## Test Planning
